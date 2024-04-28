@@ -1,0 +1,7 @@
+setuptools
+torch
+pygame
+flappy-bird-env
+gymnasium
+matplotlib
+scipy
